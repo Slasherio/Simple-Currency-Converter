@@ -1,10 +1,6 @@
 function dollars (){
 	var dollars = prompt('Enter USD value');
-	// var euro = prompt('Enter EUR value');
 	var dollarsToGrn = dollars * 26.5;
-	// var euroToGrn = euro * 29.04;
-	// var euroToDol = prompt('EUR to USD');
-	// var dollarsToEuro = euroToDol * 1.104;
 	alert(`${dollars} USD are equal ${dollarsToGrn} UAH`);
 }
 
