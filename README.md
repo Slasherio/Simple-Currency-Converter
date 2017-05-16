@@ -1,2 +1,3 @@
 # Simple-Currency-Converter
-Simple Currency Converter by JS
+
+[gh-pages](https://slasherio.github.io/Simple-Currency-Converter/)
