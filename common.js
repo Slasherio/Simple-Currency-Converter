@@ -1,3 +1,7 @@
+document.querySelector('.usd').addEventListener("click", dollars);
+document.querySelector('.eur').addEventListener("click", euros);
+document.querySelector('.eurdoll').addEventListener("click", eurodoll);
+
 function dollars (){
 	var dollars = prompt('Enter USD value');
 	var dollarsToGrn = dollars * 26.5;
